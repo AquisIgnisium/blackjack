@@ -1,6 +1,6 @@
 import socket
 
-ip = "127.0.0.1"
+ip = "10.33.22.23"
 port = 4000
 bufferSize = 1024
 message = "Hello World"
